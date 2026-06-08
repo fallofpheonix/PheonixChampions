@@ -1,3 +1,0 @@
-{"timestamp": 1780185387.402427, "action": "ISOLATE_PID", "target_pid": 1234, "reasoning": "High entropy drift detected in restricted memory region.", "confidence": 0.95}
-{"timestamp": 1780185399.8911302, "action": "ISOLATE_PID", "target_pid": 1234, "reasoning": "High entropy drift detected in restricted memory region.", "confidence": 0.95}
-{"timestamp": 1780185418.3663502, "action": "ISOLATE_PID", "target_pid": 1234, "reasoning": "High entropy drift detected in restricted memory region.", "confidence": 0.95}

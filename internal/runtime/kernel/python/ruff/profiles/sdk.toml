@@ -1,2 +1,0 @@
-# Ruff Profile: sdk
-select = ["E", "F", "I", "B", "UP", "N"]

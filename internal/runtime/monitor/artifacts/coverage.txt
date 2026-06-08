@@ -1,4 +1,0 @@
-sentinel/telemetry/entropy_engine/entropy.go:15:	Calculate		94.7%
-sentinel/telemetry/entropy_engine/entropy.go:55:	CalculateEntropy	0.0%
-sentinel/telemetry/entropy_engine/src/main.go:19:	main			0.0%
-total:							(statements)		32.1%

@@ -1,6 +1,0 @@
-# Ignore everything by default to minimize build context bloat
-*
-
-# Whitelist only the binary and object files required by Dockerfile.node
-!Phoenix.Terminus/bin/phoenixd
-!Phoenix.Nucleus/PhoenixKernel/src/phoenix_exec.o

@@ -1,2 +1,0 @@
-# Ruff Profile: experimental
-select = ["E", "F"]

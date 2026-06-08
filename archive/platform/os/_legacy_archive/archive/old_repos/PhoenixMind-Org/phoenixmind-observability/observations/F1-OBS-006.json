@@ -1,8 +1,0 @@
-{
-  "scan": "F1-OBS-006",
-  "runtime_health": 0.95,
-  "drift_average": 0.1,
-  "latency": "1ms",
-  "failure_count": 0,
-  "status": "ACTIVE"
-}

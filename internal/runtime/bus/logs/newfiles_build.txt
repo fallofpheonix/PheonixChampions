@@ -1,2 +1,0 @@
-./artifacts/build/build.log
-./src/__pycache__/normalizer.cpython-314.pyc

@@ -1,8 +1,0 @@
-{
-  "folder": "10_META/templates",
-  "dateFormat": "YYYY-MM-DD",
-  "timeFormat": "HH:mm",
-  "triggerOnFileCreation": false,
-  "autoJumpToCursor": false
-}
-

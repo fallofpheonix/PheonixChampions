@@ -1,2 +1,0 @@
-{"sequence":0,"type":"GENESIS","timestamp":"2026-06-04T17:49:43.154864Z","payload":"e30=","parent_hash":"","authority_ref":"SYSTEM","hash":"98139fdb4e53950deed32ad9f737e753446d92f541399bcfdce19998e75bb806"}
-{"sequence":1,"type":"ENFORCEMENT_ACTION","timestamp":"2026-06-04T17:49:43.162461Z","payload":"eyJzdGF0ZSI6IldBVENIIn0=","parent_hash":"98139fdb4e53950deed32ad9f737e753446d92f541399bcfdce19998e75bb806","authority_ref":"WARDEN","hash":"0dfd55f7a32aa8c4149bafcd756f34c97a425ae5f4d5e1cda6083169e99c6f0f"}

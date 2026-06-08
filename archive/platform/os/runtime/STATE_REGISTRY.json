@@ -1,7 +1,0 @@
-{
-  "arbiter": "RUNNING",
-  "scheduler": "RUNNING",
-  "warden": "LOCKED",
-  "telemetry": "ACTIVE",
-  "memory": "OBSERVE_ONLY"
-}

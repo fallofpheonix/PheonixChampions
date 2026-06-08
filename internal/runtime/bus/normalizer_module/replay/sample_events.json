@@ -1,5 +1,0 @@
-[
-  {"pid": 100, "comm": "svc", "type": "WRITE", "path": "/tmp/f1", "bytes": 1024, "timestamp": 1620000000.0},
-  {"pid": 101, "comm": "svc", "type": "RENAME", "path": "/tmp/f2", "bytes": 0, "timestamp": 1620000001.0},
-  {"pid": 102, "comm": "user", "type": "WRITE", "path": "/home/user/photo.jpg", "bytes": 2048, "timestamp": 1620000002.0}
-]

@@ -1,2 +1,0 @@
-# Ruff Profile: service
-select = ["E", "F", "I", "B", "UP"]

@@ -1,8 +1,0 @@
-{
-  "timestamp": "2026-05-12T23:23:13Z",
-  "hashes": {
-    "control-plane/agent-governance/verification/agent_purity_scanner.py": "0b365066881687fd1e76d7786f2644981e1daa9934e009d4b471e68a6846f3f9"
-  },
-  "signature": "8b66b0b332afcfbcb357d8fb46020b9993be47c8a553abbfc55c6762f665680e",
-  "authenticity": "HMAC-SHA256"
-}

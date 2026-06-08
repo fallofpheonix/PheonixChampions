@@ -1,9 +1,0 @@
-build
-external
-phoenix-core
-phoenix-dashboard
-phoenix-research
-phoenix-truth
-phoenix-validation
-phoenixmind
-PhoenixOrg

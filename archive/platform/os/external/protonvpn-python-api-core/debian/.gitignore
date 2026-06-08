@@ -1,9 +1,0 @@
-.debhelper
-debhelper-build-stamp
-files
-python3-proton-vpn-coreapi.debhelper.log
-python3-proton-vpn-coreapi.postinst.debhelper
-python3-proton-vpn-coreapi.postrm.debhelper
-python3-proton-vpn-coreapi.prerm.debhelper
-python3-proton-vpn-coreapi.substvars
-python3-proton-vpn-coreapi

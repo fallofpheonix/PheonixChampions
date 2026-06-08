@@ -1,5 +1,0 @@
-{
-  "autoSaveInterval": 60,
-  "autoCommitMessage": "vault: daily-{{date}}"
-}
-
