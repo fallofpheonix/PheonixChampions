@@ -10,6 +10,7 @@ This directory establishes the architecture-first specifications of the Phoenix 
 ## Document Directory
 
 ### Vision & System Core
+- [CURRENT_STATE.md](./CURRENT_STATE.md): Captured reality of the active Python core & Godot client.
 - [VISION.md](./VISION.md): Conceptual model of the gamified sandbox environment.
 - [GAMEPLAY_LOOP.md](./GAMEPLAY_LOOP.md): Interactive cycle between agents, user, and sandbox.
 - [PROGRESSION_SYSTEM.md](./PROGRESSION_SYSTEM.md): Dynamic curriculum design and level unlocking.
@@ -29,21 +30,3 @@ This directory establishes the architecture-first specifications of the Phoenix 
 ### P-Script Subsystem
 - [Language Spec](./pscript/LANGUAGE_SPEC.md): Syntax and types.
 - [Grammar](./pscript/GRAMMAR.md): Lexer specifications.
-- [Bytecode](./pscript/BYTECODE.md): Virtual machine instructions.
-- [VM Architecture](./pscript/VM_ARCHITECTURE.md): Call stack.
-- [JIT Architecture](./pscript/JIT_ARCHITECTURE.md): JIT compilation.
-- [LSP Architecture](./pscript/LSP_ARCHITECTURE.md): IDE integrations.
-
-### Progression Curriculum
-- [Tier 1 Deterministic](./progression/TIER_1_DETERMINISTIC.md)
-- [Tier 2 Evidence](./progression/TIER_2_EVIDENCE.md)
-- [Tier 3 FSM](./progression/TIER_3_FSM.md)
-- [Tier 4 Thermodynamics](./progression/TIER_4_THERMODYNAMICS.md)
-- [Tier 5 Byzantine](./progression/TIER_5_BYZANTINE.md)
-
-### Game Theory Principles
-- [Flow Theory](./game_theory/FLOW_THEORY.md): Balance challenge.
-- [Operant Conditioning](./game_theory/OPERANT_CONDITIONING.md): Reinforcement.
-- [Self Determination](./game_theory/SELF_DETERMINATION.md): Player agency.
-- [Loss Aversion](./game_theory/LOSS_AVERSION.md): Risk management.
-- [Social Comparison](./game_theory/SOCIAL_COMPARISON.md): Multiplayer score comparisons.
